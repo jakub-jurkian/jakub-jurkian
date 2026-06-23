@@ -15,8 +15,8 @@ I build backend systems primarily in Java because I genuinely enjoy the server-s
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **[velocity-fleet-api](https://github.com/jakub-jurkian/velocity-fleet-api)** | E-bike fleet rental backend. Optimistic-locking conflict detection, a BigDecimal billing engine, and a reservation state machine. | Java 21, Spring Boot 3, PostgreSQL, Liquibase, Spring Security/JWT |
-| **[velocity](https://github.com/jakub-jurkian/velocity)** | React client for the Fleet API above — booking flow for customers, analytics dashboard for admins. | React 18, TypeScript, Redux Toolkit |
+| **[velocity-api](https://github.com/jakub-jurkian/velocity-api)** | E-bike fleet rental backend. Optimistic-locking conflict detection, a BigDecimal billing engine, and a reservation state machine. | Java 21, Spring Boot 3, PostgreSQL, Liquibase, Spring Security/JWT |
+| **[velocity-client](https://github.com/jakub-jurkian/velocity-client)** | React client for the Fleet API above — booking flow for customers, analytics dashboard for admins. | React 18, TypeScript, Redux Toolkit |
 | **[mockbean](https://github.com/jakub-jurkian/mockbean)** | LLM-as-a-judge REST API for evaluating technical interview answers, with RAG-based scoring. | Java 21, Spring Boot 3.5, LangChain4j, pgvector, Flyway |
 | **[grailkits](https://github.com/jakub-jurkian/grailkits)** | E-commerce marketplace split into independent microservices behind an API Gateway. | Node.js, Express, PostgreSQL, MongoDB, Redis |
 | **[smart-home-simulator](https://github.com/jakub-jurkian/smart-home-simulator)** | IoT simulator for smart-home devices over MQTT/TCP, deployed on Azure. | .NET 10, EF Core, React, Docker, Azure |
