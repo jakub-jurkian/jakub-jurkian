@@ -10,7 +10,7 @@ I build backend systems primarily in Java because I genuinely enjoy the server-s
 * **DevOps:** `Docker`, `GitHub Actions CI/CD`
 
 ## Also Exploring
-* **Ecosystems:** `Node.js / Express` · `.NET Core` · `Go`
+* **Ecosystems:** `Node.js / Express` · `.NET Core`
 * **Infrastructure:** `Apache Kafka` · `AWS` · `Azure`
 
 ---
