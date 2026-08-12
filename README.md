@@ -15,7 +15,7 @@ I build backend systems primarily in Java because I genuinely enjoy the server-s
 
 ---
 
-## 2026/2027 Career Target
+## Career Target
 Looking for a **Java Backend Developer / Software Engineer** internship or junior role.
 
 * **Internships:** Available immediately
