@@ -5,14 +5,14 @@ I build backend systems primarily in Java because I genuinely enjoy the server-s
 ---
 
 ## Core Stack
-* **Frontend:** `React`
 * **Backend:** `Java 21+`, `Spring Boot 3+`, `Spring Security (JWT)`, `Hibernate/JPA`, `PostgreSQL`
-* **Testing:** `JUnit 5`, `Mockito`, `Testcontainers`
+* **Testing:** `JUnit 5`, `Mockito`, `Testcontainers`, `TDD`
 * **DevOps:** `Docker`, `GitHub Actions CI/CD`
+* **Frontend Integration:** `React` / `TypeScript`
 
 ## Also Exploring
-* **Ecosystems:** `Node.js / Express` · `.NET Core`
-* **Infrastructure:** `Apache Kafka` · `AWS` · `Azure`
+* **Ecosystems:** `Node.js / Express`
+* **Infrastructure:** `Apache Kafka`
 
 ---
 
